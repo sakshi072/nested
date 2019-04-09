@@ -1,0 +1,9 @@
+[submodule "fol1"]
+	path = fol1
+	url = git@github.com:sakshi072/fol1.git
+[submodule "fol2"]
+	path = fol2
+	url = git@github.com:sakshi072/fol2.git
+[submodule "fol3"]
+	path = fol3
+	url = git@github.com:sakshi072/fol3.git
